@@ -1,21 +1,21 @@
 # Project3-AnagramSolver
 
-#### 1. Description
+### I. Description
 
 In this program, the player will be able to enter up to 3 characters and the program will compare these characters to a list of words and give the user the best word it can make using those 3 characters.
 
-#### II. User Stories
+### II. User Stories
 
 As a player, I would like to be able to enter up to 3 letters
 As a player, I would want to be given the best word that can be made with those letters
 As a player, I woud want the program to give me the solution quickly
 As a player, I would like the program to be stable, and not break if I enter less or more than 3 letters
 
-#### III. Genre
+### III. Genre
 
 This project will be a command line, text based program
 
-#### IV. Technical Details
+### IV. Technical Details
 
 Programming Language/Enviroment
 
@@ -33,6 +33,6 @@ While writing my code, I chose to use indenting rather than spacing, I chose thi
 
 Another coding standard I wrote with was to place '{' directly underneath previous statements instead of at the begining of a new line, especially within 'if' statements. This was 100% a personal choice as both options will work exactly the same, I simply prefer not to have to jump to the begining of a new line while reading my code.
 
-#### V. Project Management
+### V. Project Management
 
 Burndown Chart
