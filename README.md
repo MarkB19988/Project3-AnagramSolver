@@ -6,10 +6,10 @@ In this program, the player will be able to enter up to 3 characters and the pro
 
 ### II. User Stories
 
-As a player, I would like to be able to enter up to 3 letters
-As a player, I would want to be given the best word that can be made with those letters
-As a player, I woud want the program to give me the solution quickly
-As a player, I would like the program to be stable, and not break if I enter less or more than 3 letters
+1. As a player, I would like to be able to enter up to 3 letters
+2. As a player, I would want to be given the best word that can be made with those letters
+3. As a player, I woud want the program to give me the solution quickly
+4. As a player, I would like the program to be stable, and not break if I enter less or more than 3 letters
 
 ### III. Genre
 
@@ -25,8 +25,8 @@ I will be developing this game using C++ as instructed in the brief. I will be w
 
 During this project, I will need to find a solution to the following problems/challenges.
 
-How to get the program to read a file
-How to compare the words in the file to the characters the user entered
+ - How to get the program to read a file
+ - How to compare the words in the file to the characters the user entered
 
 ##### Coding Standards
 
